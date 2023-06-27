@@ -4,3 +4,9 @@ body {
     color: white;
     padding: 1rem;
 }
+
+button {
+    padding: 1rem;
+    font-size: 1.3rem;
+    margin: .3rem;
+}
